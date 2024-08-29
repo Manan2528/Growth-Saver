@@ -121,6 +121,7 @@ input:focus {
   top: 70%;
   transform: translateY(-50%);
   color: var(--primary-color);
+  margin-right: 7px;
 }
 
 button {
